@@ -135,7 +135,7 @@ Until you do these, don’t call this “complete”.
 
 ## 🧑‍💻 Author
 
-Developed by **Augustya**
+Developed by **Aniket**
 (Student • Engineer • Learning ML the hard way)
 
 ---
